@@ -1,6 +1,9 @@
 #include<iostream>
 #include<cstring>
 
+/*Haga un programa que reciba interactivamente dos valores enteros y retorne los numero primos contenidos en el intervalo delimitado por estos dos valores. llamelo primos.cpp
+*/
+
 using namespace std;
 
 int num1;
